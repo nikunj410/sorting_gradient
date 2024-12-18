@@ -1,0 +1,16 @@
+Site,Condition,Host,Lat,Lon,Time_recol
+A,Unflooded,Koel.,29.72063,-95.66925,NA
+B,Unflooded,Koel.,29.68437,-95.47688,NA
+C,Unflooded,Koel.,29.70642,-95.41905,NA
+D,Unflooded,Cardio.,29.75069,-95.63688,NA
+E,Flooded,Koel.,29.71079,-95.40326,136
+F,Flooded,Koel,29.70788,-95.39081,175
+G,Flooded,Sapin.,29.76393,-95.4303,266
+H,Flooded,Cardio,29.37369,-95.62703,267
+I,Flooded,Sapin.,29.76559,-95.43741,308
+J,Flooded,Sapin.,29.37666,-95.58558,370
+K,Flooded,Cardio,29.79082,-95.61772,409
+L,Flooded,Koel.,29.74862,-95.39902,452
+M,Flooded,Koel.,29.68211,-95.46228,748
+N,Flooded,Koel.,29.805181,-95.162867,750
+O,Flooded,Koel.,29.71446,-95.43317,821
